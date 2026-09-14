@@ -40,7 +40,7 @@ The dashboard provides analysis across areas such as:
 
 ## 📁 Project File
 
-`[Swiggy Sales Performance Analysis](https://github.com/abhay-bakshi-08/swiggy-sales-performance-analysis-excel)`
+`[Swiggy Sales Performance Analysis]https://github.com/abhay-bakshi-08/swiggy-sales-performance-analysis-excel`
 
 The Excel workbook contains the complete analysis and interactive dashboard.
 
